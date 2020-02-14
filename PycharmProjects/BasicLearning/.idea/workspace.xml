@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f7b11dc3-08e0-4a57-b7f2-9dcd28255546" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WAR9aYcq8mQ6GMXgrcUd6in9OC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
+  </component>
+  <component name="RunManager" selected="Python.ParamCollect">
+    <configuration name="DrawCircle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BasicLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DrawCircle.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Num_to_rmb" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BasicLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Num_to_rmb.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ParamCollect" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BasicLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ParamCollect.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestControlFlow" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BasicLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestControlFlow.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="function_doc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BasicLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/function_doc.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ParamCollect" />
+        <item itemvalue="Python.function_doc" />
+        <item itemvalue="Python.DrawCircle" />
+        <item itemvalue="Python.Num_to_rmb" />
+        <item itemvalue="Python.TestControlFlow" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7b11dc3-08e0-4a57-b7f2-9dcd28255546" name="Default Changelist" comment="" />
+      <created>1578590261772</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578590261772</updated>
+      <workItem from="1578590278540" duration="1641000" />
+      <workItem from="1578624551612" duration="64000" />
+      <workItem from="1578632666911" duration="1688000" />
+      <workItem from="1578634367232" duration="21696000" />
+      <workItem from="1578670986839" duration="5811000" />
+      <workItem from="1578749914630" duration="6134000" />
+      <workItem from="1579320269900" duration="823000" />
+      <workItem from="1579402054350" duration="3484000" />
+      <workItem from="1579663220771" duration="713000" />
+      <workItem from="1579769695778" duration="2935000" />
+      <workItem from="1580977668515" duration="114000" />
+      <workItem from="1581496777012" duration="4345000" />
+      <workItem from="1581584182121" duration="3775000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="792" y="144" key="#Notifications" timestamp="1578634796278">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="792" y="144" key="#Notifications/0.0.1792.1120@0.0.1792.1120" timestamp="1578634796278" />
+    <state x="360" y="217" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578592449314">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="360" y="217" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1578592449314" />
+    <state x="734" y="381" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1578643078146">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="734" y="381" key="#com.intellij.ide.macro.MacrosDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1578643078146" />
+    <state x="1035" y="297" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1581584113156">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="1035" y="297" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1581584113156" />
+    <state x="742" y="452" width="508" height="568" key="#com.intellij.tools.ToolEditorDialog" timestamp="1578643101242">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="742" y="452" width="508" height="568" key="#com.intellij.tools.ToolEditorDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1578643101242" />
+    <state width="712" height="212" key="GridCell.Tab.0.bottom" timestamp="1581586173786">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="712" height="212" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1581586173786" />
+    <state width="838" height="212" key="GridCell.Tab.0.bottom/0.23.1792.1024@0.23.1792.1024" timestamp="1580976678902" />
+    <state width="838" height="212" key="GridCell.Tab.0.bottom/0.23.1792.1026@0.23.1792.1026" timestamp="1579663035653" />
+    <state width="712" height="212" key="GridCell.Tab.0.center" timestamp="1581586173785">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="712" height="212" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1581586173785" />
+    <state width="838" height="212" key="GridCell.Tab.0.center/0.23.1792.1024@0.23.1792.1024" timestamp="1580976678901" />
+    <state width="838" height="212" key="GridCell.Tab.0.center/0.23.1792.1026@0.23.1792.1026" timestamp="1579663035652" />
+    <state width="712" height="212" key="GridCell.Tab.0.left" timestamp="1581586173784">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="712" height="212" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1581586173784" />
+    <state width="838" height="212" key="GridCell.Tab.0.left/0.23.1792.1024@0.23.1792.1024" timestamp="1580976678901" />
+    <state width="838" height="212" key="GridCell.Tab.0.left/0.23.1792.1026@0.23.1792.1026" timestamp="1579663035651" />
+    <state width="712" height="212" key="GridCell.Tab.0.right" timestamp="1581586173786">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="712" height="212" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1581586173786" />
+    <state width="838" height="212" key="GridCell.Tab.0.right/0.23.1792.1024@0.23.1792.1024" timestamp="1580976678901" />
+    <state width="838" height="212" key="GridCell.Tab.0.right/0.23.1792.1026@0.23.1792.1026" timestamp="1579663035653" />
+    <state width="712" height="377" key="GridCell.Tab.1.bottom" timestamp="1581585465152">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="712" height="377" key="GridCell.Tab.1.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1581585465152" />
+    <state width="712" height="377" key="GridCell.Tab.1.center" timestamp="1581585465151">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="712" height="377" key="GridCell.Tab.1.center/0.0.1792.1120@0.0.1792.1120" timestamp="1581585465151" />
+    <state width="712" height="377" key="GridCell.Tab.1.left" timestamp="1581585465150">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="712" height="377" key="GridCell.Tab.1.left/0.0.1792.1120@0.0.1792.1120" timestamp="1581585465150" />
+    <state width="712" height="377" key="GridCell.Tab.1.right" timestamp="1581585465151">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="712" height="377" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1581585465151" />
+    <state x="0" y="23" width="1792" height="1022" key="SettingsEditor" timestamp="1578643103211">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="0" y="23" width="1792" height="1022" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1578643103211" />
+    <state x="573" y="365" key="com.intellij.ide.util.TipDialog" timestamp="1578590293648">
+      <screen x="0" y="23" width="1792" height="1020" />
+    </state>
+    <state x="573" y="365" key="com.intellij.ide.util.TipDialog/0.23.1792.1020@0.23.1792.1020" timestamp="1578590293648" />
+    <state x="991" y="88" width="838" height="1032" key="search.everywhere.popup" timestamp="1579770697313">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="991" y="88" width="838" height="1032" key="search.everywhere.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1579770697313" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/BasicLearning$TestListAndTupleAndDict.coverage" NAME="TestListAndTuple Coverage Results" MODIFIED="1578656879298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BasicLearning$TestDict.coverage" NAME="TestDict Coverage Results" MODIFIED="1578735223243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BasicLearning$Num_to_rmb.coverage" NAME="Num_to_rmb Coverage Results" MODIFIED="1579769446730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BasicLearning$ParamCollect.coverage" NAME="ParamCollect Coverage Results" MODIFIED="1581586173778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BasicLearning$test.coverage" NAME="TestString Coverage Results" MODIFIED="1578648670537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BasicLearning$function_doc.coverage" NAME="function_doc Coverage Results" MODIFIED="1581581464210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BasicLearning$TestDataType.coverage" NAME="TestDataType Coverage Results" MODIFIED="1578639786141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BasicLearning$DrawCircle.coverage" NAME="DrawCircle Coverage Results" MODIFIED="1580543608599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BasicLearning$TestControlFlow.coverage" NAME="TestControlFlow Coverage Results" MODIFIED="1579575854852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BasicLearning$TestList.coverage" NAME="TestList Coverage Results" MODIFIED="1578662692877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
