@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41a110c9-6aa4-4af3-a198-22a4563e8970" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/L11_ContainerWithMostWater.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/L283_MoveZero.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BasicLearning/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BasicLearning/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BasicLearning/TestString.py" beforeDir="false" afterPath="$PROJECT_DIR$/../BasicLearning/TestString.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L70_ClimbStairs.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -138,7 +134,7 @@
       <workItem from="1578666697315" duration="3848000" />
       <workItem from="1578749914659" duration="1196000" />
       <workItem from="1582804521014" duration="650000" />
-      <workItem from="1582805363203" duration="7132000" />
+      <workItem from="1582805363203" duration="10624000" />
     </task>
     <servers />
   </component>
