@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7b11dc3-08e0-4a57-b7f2-9dcd28255546" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Vivo_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/L144preorderTraversal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/L94inorderTraversal.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestString.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestString.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeetCode/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCode/.idea/leetcode/editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeetCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCode/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +38,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
   </component>
-  <component name="RunManager" selected="Python.ParamCollect">
+  <component name="RunManager" selected="Python.Vivo_test">
     <configuration name="DrawCircle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BasicLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -100,7 +105,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="TestControlFlow" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Vivo_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BasicLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -113,7 +118,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestControlFlow.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Vivo_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Vivo_test" />
         <item itemvalue="Python.ParamCollect" />
         <item itemvalue="Python.function_doc" />
         <item itemvalue="Python.DrawCircle" />
         <item itemvalue="Python.Num_to_rmb" />
-        <item itemvalue="Python.TestControlFlow" />
       </list>
     </recent_temporary>
   </component>
@@ -191,6 +196,7 @@
       <workItem from="1581584182121" duration="3817000" />
       <workItem from="1581691873615" duration="154000" />
       <workItem from="1582626442197" duration="3400000" />
+      <workItem from="1583651110861" duration="3146000" />
     </task>
     <servers />
   </component>
@@ -218,46 +224,46 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="742" y="452" width="508" height="568" key="#com.intellij.tools.ToolEditorDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1578643101242" />
-    <state width="712" height="212" key="GridCell.Tab.0.bottom" timestamp="1581691792948">
-      <screen x="0" y="23" width="1792" height="1026" />
+    <state width="1740" height="377" key="GridCell.Tab.0.bottom" timestamp="1583672366568">
+      <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="712" height="212" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1581586173786" />
+    <state width="1740" height="377" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1583672366568" />
     <state width="838" height="212" key="GridCell.Tab.0.bottom/0.23.1792.1024@0.23.1792.1024" timestamp="1580976678902" />
     <state width="712" height="212" key="GridCell.Tab.0.bottom/0.23.1792.1026@0.23.1792.1026" timestamp="1581691792948" />
-    <state width="712" height="212" key="GridCell.Tab.0.center" timestamp="1581691792947">
-      <screen x="0" y="23" width="1792" height="1026" />
+    <state width="1740" height="377" key="GridCell.Tab.0.center" timestamp="1583672366567">
+      <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="712" height="212" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1581586173785" />
+    <state width="1740" height="377" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1583672366567" />
     <state width="838" height="212" key="GridCell.Tab.0.center/0.23.1792.1024@0.23.1792.1024" timestamp="1580976678901" />
     <state width="712" height="212" key="GridCell.Tab.0.center/0.23.1792.1026@0.23.1792.1026" timestamp="1581691792947" />
-    <state width="712" height="212" key="GridCell.Tab.0.left" timestamp="1581691792947">
-      <screen x="0" y="23" width="1792" height="1026" />
+    <state width="1740" height="377" key="GridCell.Tab.0.left" timestamp="1583672366566">
+      <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="712" height="212" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1581586173784" />
+    <state width="1740" height="377" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1583672366566" />
     <state width="838" height="212" key="GridCell.Tab.0.left/0.23.1792.1024@0.23.1792.1024" timestamp="1580976678901" />
     <state width="712" height="212" key="GridCell.Tab.0.left/0.23.1792.1026@0.23.1792.1026" timestamp="1581691792947" />
-    <state width="712" height="212" key="GridCell.Tab.0.right" timestamp="1581691792948">
-      <screen x="0" y="23" width="1792" height="1026" />
+    <state width="1740" height="377" key="GridCell.Tab.0.right" timestamp="1583672366567">
+      <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="712" height="212" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1581586173786" />
+    <state width="1740" height="377" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1583672366567" />
     <state width="838" height="212" key="GridCell.Tab.0.right/0.23.1792.1024@0.23.1792.1024" timestamp="1580976678901" />
     <state width="712" height="212" key="GridCell.Tab.0.right/0.23.1792.1026@0.23.1792.1026" timestamp="1581691792948" />
-    <state width="712" height="377" key="GridCell.Tab.1.bottom" timestamp="1581585465152">
+    <state width="1740" height="377" key="GridCell.Tab.1.bottom" timestamp="1583672366570">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="712" height="377" key="GridCell.Tab.1.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1581585465152" />
-    <state width="712" height="377" key="GridCell.Tab.1.center" timestamp="1581585465151">
+    <state width="1740" height="377" key="GridCell.Tab.1.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1583672366570" />
+    <state width="1740" height="377" key="GridCell.Tab.1.center" timestamp="1583672366568">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="712" height="377" key="GridCell.Tab.1.center/0.0.1792.1120@0.0.1792.1120" timestamp="1581585465151" />
-    <state width="712" height="377" key="GridCell.Tab.1.left" timestamp="1581585465150">
+    <state width="1740" height="377" key="GridCell.Tab.1.center/0.0.1792.1120@0.0.1792.1120" timestamp="1583672366568" />
+    <state width="1740" height="377" key="GridCell.Tab.1.left" timestamp="1583672366568">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="712" height="377" key="GridCell.Tab.1.left/0.0.1792.1120@0.0.1792.1120" timestamp="1581585465150" />
-    <state width="712" height="377" key="GridCell.Tab.1.right" timestamp="1581585465151">
+    <state width="1740" height="377" key="GridCell.Tab.1.left/0.0.1792.1120@0.0.1792.1120" timestamp="1583672366568" />
+    <state width="1740" height="377" key="GridCell.Tab.1.right" timestamp="1583672366570">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="712" height="377" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1581585465151" />
+    <state width="1740" height="377" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1583672366570" />
     <state x="0" y="23" width="1792" height="1022" key="SettingsEditor" timestamp="1578643103211">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
@@ -266,10 +272,10 @@
       <screen x="0" y="23" width="1792" height="1020" />
     </state>
     <state x="573" y="365" key="com.intellij.ide.util.TipDialog/0.23.1792.1020@0.23.1792.1020" timestamp="1578590293648" />
-    <state x="991" y="88" width="838" height="1032" key="search.everywhere.popup" timestamp="1579770697313">
+    <state x="991" y="88" width="838" height="1032" key="search.everywhere.popup" timestamp="1583653053439">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="991" y="88" width="838" height="1032" key="search.everywhere.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1579770697313" />
+    <state x="991" y="88" width="838" height="1032" key="search.everywhere.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1583653053439" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/BasicLearning$TestListAndTupleAndDict.coverage" NAME="TestListAndTuple Coverage Results" MODIFIED="1578656879298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -277,6 +283,7 @@
     <SUITE FILE_PATH="coverage/BasicLearning$Num_to_rmb.coverage" NAME="Num_to_rmb Coverage Results" MODIFIED="1579769446730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/BasicLearning$ParamCollect.coverage" NAME="ParamCollect Coverage Results" MODIFIED="1581586173778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/BasicLearning$test.coverage" NAME="TestString Coverage Results" MODIFIED="1578648670537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BasicLearning$Vivo_test.coverage" NAME="Vivo_test Coverage Results" MODIFIED="1583654741325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/BasicLearning$function_doc.coverage" NAME="function_doc Coverage Results" MODIFIED="1581581464210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/BasicLearning$TestDataType.coverage" NAME="TestDataType Coverage Results" MODIFIED="1578639786141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/BasicLearning$DrawCircle.coverage" NAME="DrawCircle Coverage Results" MODIFIED="1580543608599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

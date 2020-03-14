@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41a110c9-6aa4-4af3-a198-22a4563e8970" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/L141_LinkedListCycle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/L206ReversedLinedList.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/L24Swap_nodes_in_pairs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BasicLearning/Vivo_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BasicLearning/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L144preorderTraversal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L94inorderTraversal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicLearning/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BasicLearning/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -12,6 +14,20 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -36,7 +52,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="leetcode.id" />
   </component>
-  <component name="RunManager" selected="Python.[24]两两交换链表中的节点">
+  <component name="RunManager" selected="Python.[19]删除链表的倒数第N个节点">
     <configuration name="L283_MoveZero" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -73,6 +89,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="/var/folders/49/jnj8tkhd4ssbqvlljfx2bmwc0000gn/T/leetcode/editor/cn/[11]盛最多水的容器.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="[19]删除链表的倒数第N个节点" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="/var/folders/49/jnj8tkhd4ssbqvlljfx2bmwc0000gn/T/leetcode/editor/cn" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="/var/folders/49/jnj8tkhd4ssbqvlljfx2bmwc0000gn/T/leetcode/editor/cn/[19]删除链表的倒数第N个节点.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,6 +165,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.[19]删除链表的倒数第N个节点" />
         <item itemvalue="Python.[24]两两交换链表中的节点" />
         <item itemvalue="Python.[11]盛最多水的容器" />
         <item itemvalue="Python.L283_MoveZero" />
@@ -161,6 +200,10 @@
       <workItem from="1582804521014" duration="650000" />
       <workItem from="1582805363203" duration="17881000" />
       <workItem from="1582979254777" duration="21728000" />
+      <workItem from="1583129254178" duration="38322000" />
+      <workItem from="1583306279671" duration="1530000" />
+      <workItem from="1583651099565" duration="2000" />
+      <workItem from="1583995991927" duration="6085000" />
     </task>
     <servers />
   </component>
@@ -168,22 +211,26 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="838" height="304" key="GridCell.Tab.0.bottom" timestamp="1583129251003">
+    <state x="792" y="144" key="#Inspections" timestamp="1583142173382">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="838" height="304" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1583129251003" />
-    <state width="838" height="304" key="GridCell.Tab.0.center" timestamp="1583129251002">
+    <state x="792" y="144" key="#Inspections/0.0.1792.1120@0.0.1792.1120" timestamp="1583142173382" />
+    <state width="838" height="304" key="GridCell.Tab.0.bottom" timestamp="1584061658879">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="838" height="304" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1583129251002" />
-    <state width="838" height="304" key="GridCell.Tab.0.left" timestamp="1583129251001">
+    <state width="838" height="304" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1584061658879" />
+    <state width="838" height="304" key="GridCell.Tab.0.center" timestamp="1584061658878">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="838" height="304" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1583129251001" />
-    <state width="838" height="304" key="GridCell.Tab.0.right" timestamp="1583129251003">
+    <state width="838" height="304" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1584061658878" />
+    <state width="838" height="304" key="GridCell.Tab.0.left" timestamp="1584061658877">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="838" height="304" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1583129251003" />
+    <state width="838" height="304" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1584061658877" />
+    <state width="838" height="304" key="GridCell.Tab.0.right" timestamp="1584061658878">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="838" height="304" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1584061658878" />
     <state width="838" height="377" key="GridCell.Tab.1.bottom" timestamp="1582807040281">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
@@ -208,15 +255,16 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="742" y="252" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1582814144570" />
-    <state x="928" y="88" width="838" height="1032" key="search.everywhere.popup" timestamp="1583127823229">
+    <state x="928" y="88" width="838" height="1032" key="search.everywhere.popup" timestamp="1583253006933">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="928" y="88" width="838" height="1032" key="search.everywhere.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1583127823229" />
+    <state x="928" y="88" width="838" height="1032" key="search.everywhere.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1583253006933" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/LeetCode$_24_.coverage" NAME="[24]两两交换链表中的节点 Coverage Results" MODIFIED="1583045966754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/var/folders/49/jnj8tkhd4ssbqvlljfx2bmwc0000gn/T/leetcode/editor/cn" />
     <SUITE FILE_PATH="coverage/LeetCode$_11_.coverage" NAME="[11]盛最多水的容器 Coverage Results" MODIFIED="1582811492264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/var/folders/49/jnj8tkhd4ssbqvlljfx2bmwc0000gn/T/leetcode/editor/cn" />
     <SUITE FILE_PATH="coverage/LeetCode$L283_MoveZero.coverage" NAME="L283_MoveZero Coverage Results" MODIFIED="1582807104397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$_283_.coverage" NAME="[283]移动零 Coverage Results" MODIFIED="1582805580747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/var/folders/49/jnj8tkhd4ssbqvlljfx2bmwc0000gn/T/leetcode/editor/cn" />
+    <SUITE FILE_PATH="coverage/LeetCode$_19_N.coverage" NAME="[19]删除链表的倒数第N个节点 Coverage Results" MODIFIED="1583997957210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/var/folders/49/jnj8tkhd4ssbqvlljfx2bmwc0000gn/T/leetcode/editor/cn" />
   </component>
 </project>
